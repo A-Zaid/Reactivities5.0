@@ -7,3 +7,4 @@ install:
 script:
   - msbuild /p:Configuration=Release Reactivities5.0.sln
  # - mono ./testrunner/xunit.runners.1.9.2/tools/xunit.console.clr4.exe ./MyProject.Tests/bin/Release/MyProject.Tests.dll
+ 
